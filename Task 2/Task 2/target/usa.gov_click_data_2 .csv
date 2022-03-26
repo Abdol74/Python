@@ -1,0 +1,80 @@
+,web_browser,operating_sys,from_url,to_url,city,longitude,latitude,time_zone,time_in,time_out
+31,Mozilla/4.0,Windows,,www.cnic.navy.mil,Honolulu,21.3139,-157.824493,Pacific/Honolulu,1331923276,1331922709
+35,Mozilla/4.0,Windows,,www.cnic.navy.mil,Honolulu,21.3139,-157.824493,Pacific/Honolulu,1331923278,1331922709
+58,Mozilla/4.0,Windows,,www.cnic.navy.mil,Honolulu,21.3139,-157.824493,Pacific/Honolulu,1331923294,1331922709
+59,Mozilla/4.0,Windows,,www.cnic.navy.mil,Honolulu,21.3139,-157.824493,Pacific/Honolulu,1331923295,1331922709
+60,Mozilla/4.0,Windows,,www.navy.mil,Honolulu,21.3139,-157.824493,Pacific/Honolulu,1331923295,1331921801
+117,Mozilla/4.0,Windows,,www.nasa.gov,Houston,29.775499,-95.415199,America/Chicago,1331923339,1330539686
+119,Mozilla/4.0,Windows,,studentaid.ed.gov,Needham,42.279301,-71.245003,America/New_York,1331923339,1308751691
+130,Mozilla/4.0,Windows,www.aashtojournal.org,www.dot.ca.gov,Berkeley,37.878101,-122.271004,America/Los_Angeles,1331923351,1331757763
+150,Mozilla/4.0,Windows,,www.navy.mil,Mililani,21.4701,-157.963699,Pacific/Honolulu,1331923371,1331921801
+184,Mozilla/4.0,Windows,,www.cnic.navy.mil,Mililani,21.4701,-157.963699,Pacific/Honolulu,1331923407,1331922709
+192,Mozilla/4.0,Windows,,www.cnic.navy.mil,Mililani,21.4701,-157.963699,Pacific/Honolulu,1331923415,1331922709
+203,Mozilla/4.0,Windows,,www.navy.mil,Mililani,21.4701,-157.963699,Pacific/Honolulu,1331923426,1331922453
+204,Mozilla/4.0,Windows,,www.navy.mil,Mililani,21.4701,-157.963699,Pacific/Honolulu,1331923427,1331922453
+216,Mozilla/4.0,Windows,,www.cnic.navy.mil,Mililani,21.4701,-157.963699,Pacific/Honolulu,1331923437,1331922709
+218,Mozilla/4.0,Windows,,www.cnic.navy.mil,Mililani,21.4701,-157.963699,Pacific/Honolulu,1331923438,1331922709
+306,Mozilla/5.0,iPad,,www.fda.gov,Torrance,33.8302,-118.314697,America/Los_Angeles,1331923514,1331818358
+312,Mozilla/4.0,Windows,,www.cnic.navy.mil,Honolulu,21.3139,-157.824493,Pacific/Honolulu,1331923522,1331922709
+316,Mozilla/4.0,Windows,,www.navy.mil,Mililani,21.4701,-157.963699,Pacific/Honolulu,1331923529,1331921801
+368,Mozilla/4.0,Windows,,www.cnic.navy.mil,Mililani,21.4701,-157.963699,Pacific/Honolulu,1331923582,1331922709
+372,Mozilla/4.0,Windows,,www.cnic.navy.mil,Honolulu,21.3139,-157.824493,Pacific/Honolulu,1331923584,1331922709
+382,Mozilla/5.0,Ubuntu,today.lbl.gov,www.jgi.doe.gov,Albany,37.8895,-122.294701,America/Los_Angeles,1331923593,1316635895
+398,Mozilla/5.0,Windows,today.lbl.gov,www.jgi.doe.gov,Berkeley,37.866798,-122.253601,America/Los_Angeles,1331923611,1316635895
+422,Mozilla/4.0,Windows,,www.navy.mil,Honolulu,21.3139,-157.824493,Pacific/Honolulu,1331923637,1331921801
+473,Mozilla/4.0,Windows,fightbac.org,www.cdc.gov,East Orange,40.763901,-74.212601,America/New_York,1331923668,1292424029
+476,Mozilla/4.0,Windows,,www.navy.mil,Honolulu,21.3139,-157.824493,Pacific/Honolulu,1331923670,1331921801
+550,Mozilla/4.0,Windows,,www.fmcsa.dot.gov,Bellows Falls,43.1731,-72.495697,America/New_York,1331923736,1326483268
+623,Mozilla/5.0,Windows,www.facebook.com,www.cdcr.ca.gov,Lady Lake,28.931801,-81.954102,America/New_York,1331923809,1248360950
+684,Mozilla/5.0,Windows,,www.cdcr.ca.gov,Pittsburg,38.0051,-121.838699,America/Los_Angeles,1331923875,1248360950
+860,Mozilla/5.0,Windows,www.conferencealerts.com,www.jgi.doe.gov,Riga,56.950001,24.1,Europe/Riga,1331924015,1297260131
+866,Mozilla/4.0,Windows,,www.navy.mil,Mililani,21.4701,-157.963699,Pacific/Honolulu,1331924020,1331922453
+889,Mozilla/4.0,Windows,,www.dot.ca.gov,Sacramento,38.5765,-121.444504,America/Los_Angeles,1331924036,1331757763
+915,Mozilla/4.0,Windows,,www.navy.mil,Mililani,21.4701,-157.963699,Pacific/Honolulu,1331924063,1331922453
+923,Mozilla/4.0,Windows,,www.navy.mil,Honolulu,21.3139,-157.824493,Pacific/Honolulu,1331924063,1331922453
+944,Mozilla/5.0,Windows,,www.fda.gov,Oakland,37.794998,-122.219299,America/Los_Angeles,1331924080,1331818358
+955,Mozilla/5.0,iPhone,m.facebook.com,www.cdcr.ca.gov,Winters,38.5602,-121.996101,America/Los_Angeles,1331924087,1248360950
+1003,Mozilla/4.0,Windows,,www.cnic.navy.mil,Mililani,21.4701,-157.963699,Pacific/Honolulu,1331924129,1331922709
+1004,Mozilla/4.0,Windows,,www.cnic.navy.mil,Mililani,21.4701,-157.963699,Pacific/Honolulu,1331924129,1331922709
+1085,Mozilla/5.0,Macintosh,,www.kids.gov,Chicago,41.8675,-87.6744,America/Chicago,1331924222,1331821140
+1103,Mozilla/5.0,Windows,today.lbl.gov,www.jgi.doe.gov,Albany,37.8895,-122.294701,America/Los_Angeles,1331924241,1316635895
+1168,Mozilla/5.0,Windows,www.indy.gov,www.indy.gov,Wayne,40.054798,-75.408302,America/New_York,1331924321,1331567925
+1196,Mozilla/4.0,Windows,,www.cnic.navy.mil,Mililani,21.4701,-157.963699,Pacific/Honolulu,1331924350,1331922709
+1227,Mozilla/4.0,Windows,www.army.mil,www.army.mil,Akron,41.075199,-81.458099,America/New_York,1331924381,1327440468
+1427,Mozilla/5.0,iPhone,m.facebook.com,www.cdcr.ca.gov,Bakersfield,35.549801,-118.917099,America/Los_Angeles,1331924580,1248360950
+1459,Mozilla/4.0,Windows,,www.navy.mil,Honolulu,21.3139,-157.824493,Pacific/Honolulu,1331924611,1331922453
+1500,Mozilla/5.0,Windows,www.aashtojournal.org,appropriations.senate.gov,Silver Spring,39.004601,-77.036903,America/New_York,1331924653,1331839113
+1510,Mozilla/5.0,Windows,www.facebook.com,www.peacecorps.gov,San Jos,9.9333,-84.083298,America/Costa_Rica,1331924669,1323189207
+1564,Mozilla/4.0,Windows,,www.navy.mil,Honolulu,21.3139,-157.824493,Pacific/Honolulu,1331924736,1331922453
+1653,Mozilla/4.0,Windows,,www.navy.mil,Honolulu,21.3139,-157.824493,Pacific/Honolulu,1331924809,1331922453
+1682,Mozilla/4.0,Windows,www.fightbac.org,www.cdc.gov,Arkadelphia,34.0555,-93.1894,America/Chicago,1331924817,1292424029
+1891,Mozilla/5.0,BlackBerry,,www.cdcr.ca.gov,Rancho Cucamonga,34.143101,-117.615997,America/Los_Angeles,1331925037,1248360950
+1931,Mozilla/4.0,Windows,,www.osha.gov,Fishers,39.960999,-85.983704,America/Indianapolis,1331925085,1328127014
+2066,Mozilla/5.0,Windows,,clinton3.nara.gov,Cleveland,41.478901,-81.647301,America/New_York,1331925224,1299152922
+2089,Mozilla/4.0,Windows,bitly.com,www.doe.virginia.gov,Atlanta,33.876701,-84.334099,America/New_York,1331925243,1331921280
+2121,Mozilla/5.0,Windows,www.aashtojournal.org,appropriations.house.gov,Silver Spring,39.004601,-77.036903,America/New_York,1331925279,1331236547
+2131,Mozilla/5.0,Windows,www.indy.gov,www.indy.gov,Warsaw,41.237202,-85.8592,America/Indianapolis,1331925292,1331567925
+2149,Mozilla/4.0,Windows,,www.navy.mil,Honolulu,21.3139,-157.824493,Pacific/Honolulu,1331925308,1331921801
+2270,Mozilla/4.0,Windows,,www.fda.gov,Boca Raton,26.4095,-80.0942,America/New_York,1331925448,1331818358
+2314,Mozilla/5.0,Windows,t.co,www.jgi.doe.gov,Marum,53.150002,6.2667,Europe/Amsterdam,1331925481,1316635895
+2339,Mozilla/4.0,Windows,www.aashtojournal.org,www.dot.ca.gov,Sacramento,38.5765,-121.444504,America/Los_Angeles,1331925505,1331757763
+2351,Mozilla/5.0,Linux,m.facebook.com,www.cdcr.ca.gov,Los Angeles,34.041599,-118.298798,America/Los_Angeles,1331925514,1248360950
+2353,Mozilla/4.0,Windows,,www.cnic.navy.mil,Honolulu,21.3139,-157.824493,Pacific/Honolulu,1331925518,1331922709
+2420,Mozilla/4.0,Windows,,www.fda.gov,Ottawa,45.416698,-75.699997,America/Rainy_River,1331925586,1320159153
+2429,Mozilla/4.0,Windows,,www.navy.mil,Mililani,21.4701,-157.963699,Pacific/Honolulu,1331925592,1331921801
+2464,Mozilla/4.0,Windows,,www.us.army.mil,Spring Lake,35.226799,-78.9562,America/New_York,1331925624,1262809854
+2494,Mozilla/4.0,Windows,www.shoeman.org,www.irs.gov,Jefferson City,38.4814,-92.127296,America/Chicago,1331925657,1271160710
+2672,Mozilla/4.0,Windows,www.facebook.com,www.benning.army.mil,Chicago,41.8675,-87.6744,America/Chicago,1331925873,1291275797
+2728,Mozilla/5.0,Windows,t.co,neo.jpl.nasa.gov,Pietarsaari,63.650002,22.6833,Europe/Helsinki,1331925934,1331075550
+2732,Mozilla/4.0,Windows,fightbac.org,www.cdc.gov,Tacoma,47.198002,-122.447304,America/Los_Angeles,1331925936,1292424029
+2838,Mozilla/5.0,Ubuntu,www.youtube.com,www.copyright.gov,Moscow,41.312,-75.539497,America/New_York,1331926036,1327539349
+2876,Mozilla/4.0,Windows,,www.navy.mil,Honolulu,21.3139,-157.824493,Pacific/Honolulu,1331926085,1331921801
+2979,Mozilla/4.0,Windows,www.shoeman.org,www.irs.gov,Jefferson City,38.4814,-92.127296,America/Chicago,1331926214,1271160710
+2982,Mozilla/5.0,Windows,,dmv.vermont.gov,Lyndonville,44.5326,-72.046997,America/New_York,1331926228,1294762598
+2991,Mozilla/5.0,Windows,www.facebook.com,www.cdcr.ca.gov,Ventura,34.286301,-119.2267,America/Los_Angeles,1331926246,1248360950
+3026,Mozilla/4.0,Windows,,www.fda.gov,Ottawa,45.416698,-75.699997,America/Rainy_River,1331926297,1320159153
+3084,Mozilla/4.0,Windows,,www.ncbi.nlm.nih.gov,Ballerup,55.733299,12.3667,Europe/Copenhagen,1331926366,1299686533
+3092,Mozilla/4.0,Windows,www.facebook.com,www.benning.army.mil,Chicago,41.8675,-87.6744,America/Chicago,1331926370,1291275797
+3172,Mozilla/5.0,Macintosh,www.facebook.com,www.ncbi.nlm.nih.gov,Quakers Hill,-33.733299,150.883301,Australia/NSW,1331926468,1331881757
+3377,Mozilla/4.0,Windows,,www.cnic.navy.mil,Honolulu,21.3139,-157.824493,Pacific/Honolulu,1331926765,1331922812
+3392,Mozilla/4.0,Windows,www.lymphomation.org,seer.cancer.gov,Sheridan,34.290298,-92.384697,America/Chicago,1331926785,1259664857
